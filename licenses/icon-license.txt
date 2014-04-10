@@ -1,0 +1,5 @@
+Name: Aha-Soft
+URL: http://www.aha-soft.com
+Default License: Free for non-commercial use.
+Iconset: People Icons
+Commercial usage: Not allowed
